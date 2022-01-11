@@ -1,3 +1,3 @@
-# house-price-prediction-ml
-Predicting House Prices with some Advanced Regression Techniques
+## Predicting House Prices with some Advanced Regression Techniques
 
+House Price Prediction with Regression and Random Forest.
